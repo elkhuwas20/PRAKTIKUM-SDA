@@ -454,7 +454,7 @@ void tampilMenu() {
     cout << "       SISTEM MANAJEMEN KEBERANGKATAN KERETA API\n";
     garisHorizontal();
     cout << "  1. Tampil Semua Jadwal Kereta\n";
-    cout << "  2. Tambah Data Kereta Baru\n";
+    cout << "  2. Tambah Data Keretaa Baru\n";
     cout << "  3. Cari Kereta by Rute  (Linear Search)\n";
     cout << "  4. Cari Kereta by Nomor (Jump Search)\n";
     cout << "  5. Urutkan by Nama      (Merge Sort A-Z)\n";
